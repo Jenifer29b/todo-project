@@ -1,0 +1,12 @@
+.Pending{
+    background-color: rgb(216, 80, 80);
+}
+
+.Ongoing{
+    background-color: rgb(223, 223, 77);
+}
+
+.Completed{
+    background-color: rgb(71, 228, 71);
+}
+
